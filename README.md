@@ -4,7 +4,7 @@
 ![JavaScript](https://img.shields.io/badge/-Noob%20JS-e7a328?style=flat-square&logo=javascript&logoColor=e7a328&labelColor=1e1e1e)
 ![Java](https://img.shields.io/badge/-Java-e76f00?style=flat-square&logo=coffeescript&logoColor=white&labelColor=1e1e1e)
 ![Oracle](https://img.shields.io/badge/-Oracle%20SQL-ea1b23?style=flat-square&logo=oracle&logoColor=white&labelColor=1e1e1e)
-![C](https://img.shields.io/badge/-Noob%20C-ea1b23?style=flat-square&logo=C&logoColor=white&labelColor=1e1e1e)
+![C](https://img.shields.io/badge/-Noob%20C-A8B9CC?style=flat-square&logo=C&logoColor=white&labelColor=1e1e1e)
 
 
 ![Windows](https://img.shields.io/badge/-Windows%2010%20LTSC-0078d7?style=flat-square&logo=windows&logoColor=0078d7&labelColor=1e1e1e)
