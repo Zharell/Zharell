@@ -8,4 +8,4 @@
 
 ![Windows](https://img.shields.io/badge/-Windows%2010%20LTSC-0078d7?style=flat-square&logo=windows&logoColor=0078d7&labelColor=1e1e1e)
 ![Windows](https://img.shields.io/badge/-Windows%2011%20Pro-0078d7?style=flat-square&logo=windows&logoColor=0078d7&labelColor=1e1e1e)
-![Linux](https://img.shields.io/badge/-MintOS%20(Linux)-38ff6e?style=flat-square&logo=linux&logoColor=38ff6e&labelColor=1e1e1e)
+![Linux](https://img.shields.io/badge/-Linux Mint%20(Linux)-38ff6e?style=flat-square&logo=linux&logoColor=38ff6e&labelColor=1e1e1e)
