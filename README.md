@@ -9,7 +9,7 @@
 
 <br>
 
-<img aligh="center" width="100" height="100" src="https://media.tenor.com/WhxzOGJc9_sAAAAC/alhaitham-genshin-al-haitham.gif">
+<img align="center" width="100" height="100" src="https://media.tenor.com/WhxzOGJc9_sAAAAC/alhaitham-genshin-al-haitham.gif">
 
 <br><br><br>
 
