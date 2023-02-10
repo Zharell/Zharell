@@ -1,6 +1,13 @@
-
+<p align="center">
+### Software Development:
+</p>
 ![Java](https://img.shields.io/badge/-Java-e76f00?style=flat-square&logo=coffeescript&logoColor=white&labelColor=1e1e1e)
 ![Oracle](https://img.shields.io/badge/-Oracle%20SQL-ea1b23?style=flat-square&logo=oracle&logoColor=white&labelColor=1e1e1e)
+![MySql](https://img.shields.io/badge/-MySql%20SQL-0b5394?style=flat-square&logo=mysql&logoColor=white&labelColor=1e1e1e)
+![android](https://img.shields.io/badge/-AndroidStudio-8fce00?style=flat-square&logo=android&logoColor=8fce00&labelColor=1e1e1e)
+
+
+
 ![HyperText Markup Language](https://img.shields.io/badge/-HTML-e65127?style=flat-square&logo=html5&logoColor=e65127&labelColor=1e1e1e)
 ![Cascading Style Sheets](https://img.shields.io/badge/-CSS-0c73b8?style=flat-square&logo=css3&logoColor=0c73b8&labelColor=1e1e1e)
 ![JavaScript](https://img.shields.io/badge/-JS-e7a328?style=flat-square&logo=javascript&logoColor=e7a328&labelColor=1e1e1e)
