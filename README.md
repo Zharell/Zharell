@@ -5,8 +5,11 @@
      I'm a developer, I started studying because I considered that I knew all the areas of computer science, much to my surprise, 
      I discovered that the world of software goes beyond everything I knew, overwhelming but inspiring.
      Well, here I am, exploring the universe of software, looking for of infinite knowledge.
+     
+     
 </p>
 
+###### 🖥 i5 12400F | EVGA RTX 3070 XC3 | Crucial Ballistix | Asus TUF b660m-e d4 | x2 Samsung 980 PRO 
 
 <h2 align="center" >
      Software Development:
