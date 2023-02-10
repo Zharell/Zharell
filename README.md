@@ -2,31 +2,33 @@
      Software Development:
 </h1>
 
-![Oracle](https://img.shields.io/badge/-Oracle%20SQL-ea1b23?style=flat-square&logo=oracle&logoColor=white&labelColor=1e1e1e)
-![MySql](https://img.shields.io/badge/-MySql%20SQL-0b5394?style=flat-square&logo=mysql&logoColor=white&labelColor=1e1e1e)
-![android](https://img.shields.io/badge/-AndroidStudio-8fce00?style=flat-square&logo=android&logoColor=8fce00&labelColor=1e1e1e)
-![Java](https://img.shields.io/badge/-Java-e76f00?style=flat-square&logo=coffeescript&logoColor=white&labelColor=1e1e1e)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h1 align="center" >
      Web Development:
 </h1>
 
-![JavaScript](https://img.shields.io/badge/-JS-e7a328?style=flat-square&logo=javascript&logoColor=e7a328&labelColor=1e1e1e)
-![HyperText Markup Language](https://img.shields.io/badge/-HTML-e65127?style=flat-square&logo=html5&logoColor=e65127&labelColor=1e1e1e)
-![Cascading Style Sheets](https://img.shields.io/badge/-CSS-0c73b8?style=flat-square&logo=css3&logoColor=0c73b8&labelColor=1e1e1e)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <h1 align="center" >
      Platforms and Software:
 </h1>
 
-![Windows](https://img.shields.io/badge/-Windows%2010%20LTSC-0078d7?style=flat-square&logo=windows&logoColor=0078d7&labelColor=1e1e1e)
-![Windows](https://img.shields.io/badge/-Windows%2011%20Pro-0078d7?style=flat-square&logo=windows%2011&logoColor=0078d7&labelColor=1e1e1e)
-![Linux](https://img.shields.io/badge/-Mint%20(Linux)-87CF3E?style=flat-square&logo=Linux%20Mint&logoColor=87CF3E&labelColor=1e1e1e)
-![Docker](https://img.shields.io/badge/-Docker-0b5394?style=flat-square&logo=docker&logoColor=0b5394&labelColor=1e1e1e)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <h1 align="center" >
      Currently Learning:
 </h1>
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white&labelColor=1e1e1e)
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
