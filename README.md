@@ -9,9 +9,11 @@
 
 <br>
 
-<img align="center" width="100" height="100" src="https://media.tenor.com/WhxzOGJc9_sAAAAC/alhaitham-genshin-al-haitham.gif">
+<div align="center" >
+     <img width="200" height="150" src="https://64.media.tumblr.com/51f2732e55c319a2e9d16f11a9caacea/27504c4180992077-42/s540x810/7df005f74d109ad064b06f84ff08183649343d4e.gif">
+</div>
 
-<br><br><br>
+<br>
 
 ###### 🖥 i5 12400F | EVGA RTX 3070 XC3 | Crucial Ballistix | Asus TUF b660m-e d4 | x2 Samsung 980 PRO 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
