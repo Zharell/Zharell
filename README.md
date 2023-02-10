@@ -11,6 +11,8 @@
 
 ###### 🖥 i5 12400F | EVGA RTX 3070 XC3 | Crucial Ballistix | Asus TUF b660m-e d4 | x2 Samsung 980 PRO 
 
+</br>
+
 <h2 align="center" >
      Software Development:
 </h2>
@@ -29,6 +31,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+</br>
 
 <h2 align="center" >
      Platforms and Software:
@@ -40,6 +43,7 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+</br>
 
 <h2 align="center" >
      Currently Learning:
@@ -51,6 +55,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+</br>
 
 <h2 align="center" >
      Version Control:
