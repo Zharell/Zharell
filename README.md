@@ -4,10 +4,12 @@
 <p align="center" >
      I'm a developer, I started studying because I considered that I knew all the areas of computer science, much to my surprise, 
      I discovered that the world of software goes beyond everything I knew, overwhelming but inspiring.
-     Well, here I am, exploring the universe of software, looking for of infinite knowledge.
-     
-     
+     Well, here I am, exploring the universe of software, looking for of infinite knowledge.    
 </p>
+
+<br>
+
+<img aligh="center" width="100" height="100" src="https://media.tenor.com/WhxzOGJc9_sAAAAC/alhaitham-genshin-al-haitham.gif">
 
 <br><br><br>
 
