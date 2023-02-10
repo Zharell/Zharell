@@ -10,8 +10,9 @@
 </p>
 
 ###### 🖥 i5 12400F | EVGA RTX 3070 XC3 | Crucial Ballistix | Asus TUF b660m-e d4 | x2 Samsung 980 PRO 
+[![INSTAGRAM](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&labelColor=000)](https://www.instagram.com/javi_elcalderon/)
+[![TWITTER](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&labelColor=000)](https://twitter.com/Javi_Joll)
 
-</br>
 
 <h2 align="center" >
      Software Development:
